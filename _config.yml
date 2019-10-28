@@ -1,11 +1,11 @@
 # Site settings
 author: Tyler Carroll
-title: 
+title: 1st week 
 header-img: img/home-bg.png
 email: tylercarroll1611@gmail.com
 copyright_name: Tyler Carroll
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tyler blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Tyler320sc
